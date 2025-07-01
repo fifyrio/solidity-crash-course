@@ -1,1 +1,1 @@
-# solidity-crash-course
+Solidity-快速入门课程
